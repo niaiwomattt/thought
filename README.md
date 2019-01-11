@@ -17,3 +17,9 @@
 9. 高可用，高并发，高性能
 
 [如何系统地学习一门编程语言？](https://zhuanlan.zhihu.com/p/27853180)
+
+## 各种资料
+
+[游戏相关资料](https://github.com/zengfeng/books)
+[经典编程书籍大全](https://github.com/jobbole/awesome-programming-books)
+[软件工程基础](https://github.com/wxyyxc1992/SoftwareEngineering-Series)
