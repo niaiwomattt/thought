@@ -21,3 +21,5 @@
 [研磨设计模式|golang](https://github.com/senghoo/golang-design-pattern)
 
 1. 单例模式
+
+2. [反面模式](https://blog.csdn.net/bigtree_3721/article/details/45483119)
