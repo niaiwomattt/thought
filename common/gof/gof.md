@@ -21,3 +21,4 @@
 10. [研磨设计模式|golang](https://github.com/senghoo/golang-design-pattern)
 
 11. [Java中的23种设计模式详解](http://blog.anxpp.com/index.php/archives/489/)
+12. [反面模式](https://blog.csdn.net/bigtree_3721/article/details/45483119)
